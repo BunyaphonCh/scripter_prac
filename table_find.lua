@@ -1,7 +1,7 @@
 -- table จะมี key กะ value
 local Bell = {
 	age = 18,
-	nice = true,
+	nice = false,
 	smart = false,
 	food = "ramen",
 	pokemon = "yamper"
